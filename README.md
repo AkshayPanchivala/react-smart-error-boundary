@@ -82,5 +82,3 @@ Feel free to [open an issue](https://github.com/AkshayPanchivala/react-smart-err
 ---
 
 Made with ❤️ by [Akshay Panchivala](https://github.com/AkshayPanchivala)
-
-```
