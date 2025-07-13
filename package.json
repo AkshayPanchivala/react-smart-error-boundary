@@ -1,0 +1,50 @@
+{
+  "name": "react-smart-error-boundary",
+  "version": "1.0.0",
+  "description": "A lightweight and customizable error boundary component for modern React apps.",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Akshay Panchivala",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AkshayPanchivala/react-smart-error-boundary"
+  },
+  "homepage": "https://github.com/AkshayPanchivala/react-smart-error-boundary#readme",
+  "bugs": {
+    "url": "https://github.com/AkshayPanchivala/react-smart-error-boundary/issues"
+  },
+  "keywords": [
+    "react",
+    "error-boundary",
+    "react-error-boundary",
+    "error handling",
+    "react component",
+    "fallback ui",
+    "error recovery",
+    "react error catcher",
+    "smart error boundary",
+    "react tools",
+    "typescript"
+  ],
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=14",
+    "npm": ">=6"
+  },
+  "files": [
+    "dist"
+  ]
+}
