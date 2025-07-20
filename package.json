@@ -1,6 +1,6 @@
 {
   "name": "react-smart-error-boundary",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight and customizable error boundary component for modern React apps.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
