@@ -1,23 +1,42 @@
+
+
 # 🛡️ React Smart Error Boundary
 
-A lightweight and customizable error boundary component for React applications.  
+> **⚠️ This package is currently under development and not yet ready for production use.**
+> Please ⭐️ the repository and check back soon for updates!
+
+---
+
+A lightweight and customizable error boundary component for React applications.
 Gracefully catch and display runtime errors in your UI — with zero configuration and full flexibility.
 
 ---
 
-## 🚀 Installation
+## 🚧 Status: Under Construction
 
-Install using npm or yarn:
+We're actively working to finalize and publish this package. Expect improvements, breaking changes, and feature additions in upcoming releases.
+
+If you'd like to contribute or follow progress:
+
+* [📂 Repository](https://github.com/AkshayPanchivala/react-smart-error-boundary)
+* [🐛 Report Issues](https://github.com/AkshayPanchivala/react-smart-error-boundary/issues)
+* ⭐ Star the repo to stay updated!
+
+---
+
+## 🚀 Planned Installation
+
+Coming soon via npm or yarn:
 
 ```bash
 npm install react-smart-error-boundary
 # or
 yarn add react-smart-error-boundary
-````
+```
 
 ---
 
-## ⚡ Usage
+## 📊 Planned Usage
 
 ```tsx
 import { ErrorBoundary } from 'react-smart-error-boundary';
@@ -43,7 +62,7 @@ function App() {
 
 ---
 
-## 🧩 Props
+## 🧩 Props (Planned)
 
 | Prop       | Type                                                                | Description                                  |
 | ---------- | ------------------------------------------------------------------- | -------------------------------------------- |
@@ -53,19 +72,13 @@ function App() {
 
 ---
 
-## ✨ Features
+## ✨ Planned Features
 
-* ⚙️ Works with React 17 & 18
+* ⚙️ Support for React 17 & 18
 * 🎨 Fully customizable fallback UI
-* 🧠 Supports both static and dynamic fallback rendering
+* 🧠 Supports static and dynamic fallback rendering
 * 💡 Written in TypeScript
-* 💼 Perfect for production-ready React apps
-
----
-
-## 📦 NPM
-
-[![NPM](https://img.shields.io/npm/v/react-smart-error-boundary.svg)](https://www.npmjs.com/package/react-smart-error-boundary)
+* 💼 Production-ready best practices
 
 ---
 
@@ -75,10 +88,13 @@ MIT © [Akshay Panchivala](https://github.com/AkshayPanchivala)
 
 ---
 
-## 🛠️ Issues & Contributions
+## ❤️ Contribution
 
-Feel free to [open an issue](https://github.com/AkshayPanchivala/react-smart-error-boundary/issues) or submit a PR.
+We welcome contributions once development stabilizes.
+Feel free to [open issues](https://github.com/AkshayPanchivala/react-smart-error-boundary/issues) or submit a PR in the future.
 
 ---
 
 Made with ❤️ by [Akshay Panchivala](https://github.com/AkshayPanchivala)
+
+
